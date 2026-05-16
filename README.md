@@ -1,18 +1,41 @@
-# Netflix Clone Using HTML & CSS
+# Netflix MERN Clone
 
-A Netflix-inspired responsive web interface built with HTML and CSS.
+A full-stack Netflix-inspired movie streaming web application built using the MERN stack.
 
 ## Features
-- Hero section with background image
-- Navigation bar with logo and buttons
-- Trending Now section
-- More Reasons to Join section
-- FAQ section
-- Footer
 
-## Live Demo
-Coming soon...
+- User Authentication (JWT)
+- Login & Register System
+- Trending Movies
+- Movie Search
+- Watchlist / My List
+- Movie Details Popup
+- Hero Banner
+- Responsive UI
+- Tailwind CSS Styling
+- TMDB API Integration
 
-## Technologies Used
-- HTML5
-- CSS3
+## Tech Stack
+
+### Frontend
+- React.js
+- React Router DOM
+- Tailwind CSS
+- Axios
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+- Mongoose
+
+## API Used
+
+- TMDB (The Movie Database) API
+
+## Project Structure
+
+```bash
+frontend/
+backend/
